@@ -18,6 +18,9 @@ public class sigin_in extends javax.swing.JFrame {
      */
     public sigin_in() {
         initComponents();
+ajsfoaisfdjan
+daslfnsadl
+asfjsdalfjsda
     }
 
     /**

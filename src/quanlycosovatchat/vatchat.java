@@ -11,6 +11,9 @@ import java.util.Objects;
  *
  * @author ADMIN
  */
+safhksahdf
+sgaajsdfhshdan
+'jsfasdhn
 public class vatchat {
     private String idVatChat;
     private String tenVatChat;

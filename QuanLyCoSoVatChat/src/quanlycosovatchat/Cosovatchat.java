@@ -31,6 +31,9 @@ public class Cosovatchat extends javax.swing.JFrame {
         this.model = new quanlycosovatchatmodel();
         initComponents();
         System.out.println("Ngay mai se khac");
+System.out.println("Ngay mai se khac");
+System.out.println("Ngay mai se khac");
+System.out.println("Ngay mai se khac");
     }
 
     /**

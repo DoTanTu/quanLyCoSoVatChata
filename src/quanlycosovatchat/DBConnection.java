@@ -14,6 +14,9 @@ import java.sql.SQLException;
  * @author ADMIN
  */
 public class DBConnection {
+ajhsdafjsad
+fkao;isdsa odn
+
     public static Connection getConnection(){
         Connection connection = null;
 

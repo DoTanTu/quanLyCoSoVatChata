@@ -36,6 +36,7 @@ public class vatchatdao {
                 return ts;
             }
         }
+         System.out.println("Ga lam bro");
         return null; 
     }
     

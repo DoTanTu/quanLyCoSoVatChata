@@ -37,6 +37,7 @@ public class quanlycosovatchatmodel {
         StringBuilder sb = new StringBuilder();
         sb.append("quanlycosovatchatmodel{dsVatChat=").append(dsVatChat);
         sb.append('}');
+        System.out.println("adhaksd");
         return sb.toString();
     }
 
